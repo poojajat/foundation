@@ -56,7 +56,7 @@ Sample JSON Data
     {
       "contactMechId": "ADDR001",
       "contactMechTypeId": "POSTAL_ADDRESS",
-      "infoString": "123 Elm Street, Springfield, 12345, USA"
+      "infoString": "123 Elm Street, Springfield, 12345, USA" //Address is not stored in info string
     }
   ],
   "PostalAddress": {
